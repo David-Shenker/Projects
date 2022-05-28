@@ -1,0 +1,15 @@
+{
+	"stocksName":	{
+		"Walmart, Inc": "WMT",
+		"Amazon_com, Inc": "AMZN",
+		"Apple Inc": "AAPL",
+		"Berkshire Hathaway Inc": "BRK.B",
+		"Exxon Mobil Corporation": "XOM",
+		"CVS Health Corporation": "CVS",
+		"UnitedHealth Group Incorporated": "UNH",
+		"Alphabet, Inc": "GOOG",
+		"Alphabet,Inc": "GOOGL",
+		"McKesson Corporation": "MCK",
+		"AmerisourceBergen Corporation": "ABC"
+	}
+}

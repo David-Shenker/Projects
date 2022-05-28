@@ -1,0 +1,16 @@
+{
+	"cryptoName": {
+		"Bitcoin": "BINANCE:BTCUSDT",
+		"Etherium": "BINANCE:ETHUSDT",
+		"BNB": "BINANCE:BNBUSDT",
+		"Project Galaxy": "BINANCE:GALUSDT",
+		"Elipsis": "BINANCE:EPXUSDT",
+		"Solana": "BINANCE:SOLUSDT",
+		"Burger Swap": "BINANCE:BURGERUSDT",
+		"TRON": "BINANCE:TRXUSDT",
+		"Astar": "BINANCE:ASTRUSDT",
+		"SHIBA INU": "BINANCE:SHIBUSDT",
+		"Green Metaverse Token": "BINANCE:GMTUSDT",
+		"Beta Finance": "BINANCE:BETAUSDT"
+	}
+}
